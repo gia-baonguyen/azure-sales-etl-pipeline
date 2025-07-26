@@ -38,8 +38,7 @@ An end-to-end, automated data platform built on Microsoft Azure to ingest, proce
 
 The platform is orchestrated by a single Azure Data Factory pipeline that dynamically handles data processing from ingestion to analytics.
 
-*<-- Chèn hình ảnh sơ đồ kiến trúc của bạn ở đây. Ví dụ: -->*
-`![Architecture Diagram](images/architecture.png)`
+![Architecture Diagram](images/architecture.png)
 
 ---
 

@@ -9,20 +9,20 @@ An end-to-end, automated data platform built on Microsoft Azure to ingest, proce
 ---
 
 ## Table of Contents
-1.  [Business Objectives](#business-objectives)
-2.  [High-Level Architecture](#high-level-architecture)
-3.  [Component Deep Dive & Data Flow](#component-deep-dive--data-flow)
+1.  [Business Objectives](#1-business-objectives)
+2.  [High-Level Architecture](#2-high-level-architecture)
+3.  [Component Deep Dive & Data Flow](#3-component-deep-dive--data-flow)
     - [Phase 1: Dynamic & Incremental Ingestion (ADF)](#phase-1-dynamic--incremental-ingestion-adf)
     - [Phase 2: Raw Structuring - Bronze Layer](#phase-2-raw-structuring---bronze-layer)
     - [Phase 3: Business Logic & History - Silver Layer](#phase-3-business-logic--history---silver-layer)
     - [Phase 4: Aggregation & BI - Gold Layer](#phase-4-aggregation--bi---gold-layer)
     - [Phase 5: Automated Actions](#phase-5-automated-actions)
-4.  [Data Model Highlights](#data-model-highlights)
-5.  [Key Technical Features](#key-technical-features)
-6.  [Technology Stack](#technology-stack)
-7.  [Configuration & Environment](#configuration--environment)
-8.  [Error Handling & Logging](#error-handling--logging)
-9. [Setup and Deployment](#setup-and-deployment)
+4.  [Data Model Highlights](#4-data-model-highlights)
+5.  [Key Technical Features](#5-key-technical-features)
+6.  [Technology Stack](#6-technology-stack)
+7.  [Configuration & Environment](#7-configuration--environment)
+8.  [Error Handling & Logging](#8-error-handling--logging)
+9. [Setup and Deployment](#9-setup-and-deployment)
 
 ---
 
